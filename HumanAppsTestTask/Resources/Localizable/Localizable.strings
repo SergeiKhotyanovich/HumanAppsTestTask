@@ -1,0 +1,16 @@
+
+"Tabbar.main" = "Main";
+"Tabbar.settings" = "Settings";
+
+"Main.clickMe" = "Click me, please";
+"Main.save" = "Save";
+
+"AlertPermission.photos" = "Photos";
+"AlertPermission.cancel" = "Cancel";
+"AlertPermission.photoAccess" = "Photo access required";
+"AlertPermission.goToSettings" = "Go to settings";
+
+"AlertCompletion.failed" = "Failed to save the image";
+"AlertCompletion.successfully" = "The image has been successfully saved";
+"AlertCompletion.ok" = "OK";
+

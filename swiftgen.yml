@@ -1,0 +1,18 @@
+xcassets:
+ inputs:
+  - HumanAppsTestTask/Resources/Images/Assets.xcassets
+ outputs:
+  - templateName: swift4
+    output: HumanAppsTestTask/Resources/Images/Assets.swift
+    
+fonts:
+ inputs:
+  - HumanAppsTestTask/Resources/Fonts/
+ outputs:
+  - templateName: swift4
+    output: HumanAppsTestTask/Resources/Fonts/Fonts.swift
+strings:
+  - inputs: HumanAppsTestTask/Resources/Localizable/Localizable.strings
+    outputs:
+    - templateName: structured-swift4
+      output: HumanAppsTestTask/Resources/Localizable/Localizable.swift
